@@ -40,14 +40,15 @@ README.md
 ## ▶️ How to Run the Project
 
 1. Clone the repository:
+   https://github.com/Akhilesh9911/Online-Quiz-Application.git
 
-2. Navigate to the project folder:
-   cd your-repository-name
+3. Navigate to the project folder:
+   cd Online-Quiz-Application
 
-3. Compile the program:
+4. Compile the program:
    javac OnlineQuiz.java
 
-4. Run the program:
+5. Run the program:
    java OnlineQuiz
 
 ---
